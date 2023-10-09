@@ -64,6 +64,8 @@ Unfortunately, the city's lack of proactive communication about the draft code h
 
 
 ## Related Resources
+[Guest column: Bozeman doesn't work without renters](https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-bozeman-doesnt-work-without-renters/article_d253398a-6200-11ee-9b4f-07d4c9ba5990.html)
+
 [Bozeman Housing Types Map](https://maps.arcgis.com/apps/mapviewer/index.html?webmap=6fcc977947ae43d0adfc81c6edbb1b9b)
 
 [Upzoning Might Not Lower Housing Costs. Do It Anyway.](https://www.strongtowns.org/journal/2023/4/26/upzoning-might-not-lower-housing-costs-do-it-anyway) via Strong Towns
