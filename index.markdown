@@ -44,7 +44,7 @@ accordion:
         ![Small mansion apartment in the Bon Ton Historic District](/img/5_unit_small_mansion_apartments_s_grand.jpeg)
 
 ---
-Bozeman's [Draft UDC](http://engage.bozeman.net/udc){:target="_blank"} would re-legalize Missing Middle type houses. 
+We are in support of adopting Bozeman's [Draft UDC](http://engage.bozeman.net/udc){:target="_blank"} which would re-legalize Missing Middle type houses. 
 
 ## Bozeman Needs Housing Reform
 
@@ -55,6 +55,8 @@ Bozeman's [Draft UDC](http://engage.bozeman.net/udc){:target="_blank"} would re-
 3. **We all have a role to play in solving our housing shortage.** No neighborhood should bear the entire brunt of new development but no neighborhood should be walled off from new housing either.
 
 4. **We need to re-legalize our favorite "Missing Middle" housing options in Bozeman.** Just about every historic neighborhood in Bozeman has a beloved fourplex or sixplex that's illegal to build under today's zoning code. That's a big part of our problem. We need to relegalize those homes so we can have more of them.
+
+{% include album.html albumname="r-a" %}
 
 ## Common Draft UDC Misconceptions
 
