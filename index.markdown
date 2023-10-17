@@ -54,9 +54,11 @@ We are in support of adopting Bozeman's [Draft UDC](http://engage.bozeman.net/ud
 
 3. **We all have a role to play in solving our housing shortage.** No neighborhood should bear the entire brunt of new development but no neighborhood should be walled off from new housing either.
 
-4. **We need to re-legalize our favorite "Missing Middle" housing options in Bozeman.** Just about every historic neighborhood in Bozeman has a beloved fourplex or sixplex that's illegal to build under today's zoning code. That's a big part of our problem. We need to relegalize those homes so we can have more of them.
+4. **We need to re-legalize our favorite "Missing Middle" housing options in Bozeman.** Our status quo is old homes turning into McMansions. We don’t need McMansions, we need more homes for the middle class & working class like fourplexes and six plexes.
 
-{% include album.html albumname="r-a" %}
+## Learn More about the Draft UDC
+
+<iframe width="740" height="480" src="https://www.youtube.com/embed/4yO3B96xnFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Common Draft UDC Misconceptions
 
