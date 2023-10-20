@@ -56,7 +56,7 @@ We are in support of adopting Bozeman's [Draft UDC](http://engage.bozeman.net/ud
 
 4. **We need to re-legalize our favorite "Missing Middle" housing options in Bozeman.** Our status quo is old homes turning into McMansions. We don’t need McMansions, we need more homes for the middle class & working class like fourplexes and six plexes.
 
-5. **When must ban McMansions.** When need to legalize rentals and other affordable housing types in all neighborhoods. We must also ensure that new development serves the needs of community members by banning tear-downs of middle class housing to build millionaire housing.
+5. **We must ban McMansions.** When need to legalize rentals and other affordable housing types in all neighborhoods. We must also ensure that new development serves the needs of community members by banning tear-downs of middle class housing to build millionaire housing.
 
 ## Learn More about the Draft UDC
 
