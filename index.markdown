@@ -56,18 +56,22 @@ We are in support of adopting Bozeman's [Draft UDC](http://engage.bozeman.net/ud
 
 4. **We need to re-legalize our favorite "Missing Middle" housing options in Bozeman.** Our status quo is old homes turning into McMansions. We don’t need McMansions, we need more homes for the middle class & working class like fourplexes and six plexes.
 
+5. **When must ban McMansions.** When need to legalize rentals and other affordable housing types in all neighborhoods. We must also ensure that new development serves the needs of community members by banning tear-downs of middle class housing to build millionaire housing.
+
 ## Learn More about the Draft UDC
 
 <iframe width="740" height="480" src="https://www.youtube.com/embed/4yO3B96xnFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Common Draft UDC Misconceptions
 
-Unfortunately, the city's lack of proactive communication about the draft code has created a lot of misinformation. 
+Unfortunately, the city's lack of proactive communication about the draft code has created a lot of misinformation. Several common misconceptions about the Draft UDC are addressed below.
 
 {% include accordion.html %}
 
 
 ## Related Resources
+[News article: Ban on ‘McMansions’ would dramatically change Seattle’s house-building rules](https://www.seattletimes.com/seattle-news/politics/new-ban-on-mcmansions-would-dramatically-change-seattles-house-building-rules/)
+
 [Guest column: Bozeman doesn't work without renters](https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-bozeman-doesnt-work-without-renters/article_d253398a-6200-11ee-9b4f-07d4c9ba5990.html)
 
 [Bozeman Housing Types Map](https://maps.arcgis.com/apps/mapviewer/index.html?webmap=6fcc977947ae43d0adfc81c6edbb1b9b)
