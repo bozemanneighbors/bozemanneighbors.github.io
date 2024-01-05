@@ -64,6 +64,12 @@ We are in support of adopting Bozeman's [Draft UDC](http://engage.bozeman.net/ud
 
 <iframe width="740" height="480" src="https://www.youtube.com/embed/4yO3B96xnFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Missing Middle Housing in Bozeman Today
+
+Missing Middle Housing exists in all of Bozeman's historic neighborhoods and contributes to their charm and vitality. Unfortunately, creating new middle density housing has been illegal in most of these neighborhoods for 80 years. Pro-housing advocate Mark Egge recently presented a Pecha Kucha on the types of housing the draft UDC would legalize. Check it out here: 
+
+<iframe width="740" height="480" src="https://www.youtube.com/embed/4IiH-bqK_pI?si=_FUa7MPlI0DG2Jy-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Common Draft UDC Misconceptions
 
 Unfortunately, the city's lack of proactive communication about the draft code has created a lot of misinformation. Several common misconceptions about the Draft UDC are addressed below.
